@@ -1,0 +1,59 @@
+{
+  "stagiaires": [
+    {
+      "id": "1",
+      "nom": "Ahmed Alaoui",
+      "email": "ahmed.alaoui@ofppt.ma",
+      "tel": "0612345678",
+      "niveau": "ts"
+    },
+    {
+      "id": "2",
+      "nom": "Sara Nouri",
+      "email": "nouri_s@gmail.com",
+      "tel": "0698765432",
+      "niveau": "t"
+    },
+    {
+      "id": "3",
+      "nom": "Noura Sadik",
+      "email": "n1.sadik@gmail.com",
+      "tel": "0698345623",
+      "niveau": "ts"
+    },
+    {
+      "id": "11e8",
+      "nom": "noura",
+      "email": "noura@ofppt.ma",
+      "tel": "06 23 45 79 03 ",
+      "niveau": "ts"
+    },
+    {
+      "id": "b852",
+      "nom": "hicham",
+      "email": "hicham@gmail.com",
+      "tel": "06 23 45 79 03 ",
+      "niveau": "t"
+    },
+    {
+      "id": "1d61",
+      "tel": "020987928",
+      "niveau": "ts",
+      "nom": "Mourad",
+      "email": "mourad@gmail.com"
+    },
+    {
+      "id": "df7e",
+      "nom": "Sanae",
+      "email": "Sanae.boubekri@gmail.com",
+      "niveau": "t"
+    },
+    {
+      "id": "cac4",
+      "nom": "Hiba saad",
+      "email": "hiba@gmail.com",
+      "tel": "0623457903 ",
+      "niveau": "t"
+    }
+  ]
+}
